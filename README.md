@@ -1,5 +1,5 @@
 # BadOS
-Fun BadUSB scripts for iOS! Tested with BadBT Made for the Flipper Zero!
+Fun BadUSB scripts for iOS! Tested with BadBT Made for the Flipper Zero!!
 
 ㅤ
 
